@@ -1,7 +1,7 @@
-genetic_ancestry.pl
+**genetic_ancestry.pl**
 
 ================
-A perl script to find the closes sub population from the 1000 Genomes data
+A perl script to find the closest sub population of the 1000 Genomes data
  to an exome sample.
 
 ----------------
